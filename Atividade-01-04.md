@@ -23,3 +23,14 @@ A incerteza é uma realidade inevitável em qualquer projeto de desenvolvimento 
 3. Como a definição de um cronograma realista pode contribuir para o sucesso de um projeto de desenvolvimento de sistemas?
 4. Por que é importante manter uma comunicação clara e regular com o cliente ao longo do processo de desenvolvimento?
 5. Quais são algumas estratégias eficazes para lidar com a incerteza em projetos de desenvolvimento de sistemas?
+
+
+R1- A falta de liderança eficaz prejudica projetos de desenvolvimento de sistemas, causando desalinhamento de objetivos, comunicação deficiente e falta de motivação na equipe. Isso leva a atrasos na tomada de decisões, conflitos não resolvidos e, em última análise, ao fracasso do projeto.
+
+R2- Recursos fundamentais para um sistema de qualidade são equipe competente, ferramentas apropriadas, processos definidos, testes rigorosos e gestão de projeto eficiente. Sem eles, há riscos de baixa qualidade, atrasos, custos adicionais e insatisfação do cliente. Seu uso eficaz é crucial para o êxito do projeto.
+
+R3- Um cronograma realista é vital para o sucesso do desenvolvimento de sistemas, proporcionando uma visão clara das atividades, facilitando o planejamento adequado, a identificação precoce de atrasos e a comunicação eficaz entre a equipe e os stakeholders. Isso ajuda a evitar surpresas e mantém o projeto no caminho certo.
+
+R4- Comunicação clara e regular com o cliente durante o desenvolvimento do projeto é essencial para alinhar expectativas, identificar problemas precocemente e garantir que o produto final atenda às necessidades do cliente.
+
+R5- Algumas estratégias eficazes para lidar com a incerteza em projetos de desenvolvimento de sistemas incluem a adoção de abordagens ágeis, o uso de prototipagem rápida para validar conceitos, a implementação de iteração contínua e a flexibilidade para ajustar os planos conforme novas informações surgem.
